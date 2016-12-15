@@ -4,32 +4,47 @@ all notes
 all uploads
 business news
 bye
-close
 dark
+date
+day
+deactivate
 define
-exit
 feeling angry
 feeling creative
 feeling lazy
+flip coin
 go to sleep
 good bye
+heads tails
+horoscope
 how am i
 how are you
+how day
 how do i look
 how i look
 how is the weather
 how is weather
+how system
+how systems
+how today
 how weather
 how's the weather
 how's weather
+hows day
+hows today
 hows weather
 i'm feeling angry
 i'm feeling creative
 i'm feeling lazy
+ip
+ip address
 it's party time
 joke
 lights off
+love you
+marry me
 music
+network address
 note
 notes
 open firefox
@@ -38,17 +53,29 @@ party time
 play
 play music
 play some music
+power off
 quit
+repeat
+say
+say wise
+self destruct
 show all notes
 sleep
+spell
+stand down
+status
 stop
+suspend
+tell future
 tell joke
 tell me a joke
 time
+toss coin
 turn the lights off
 tweet
 upload
 uploads
+uptime
 weather
 what is the time
 what is the weather
@@ -64,3 +91,4 @@ where born
 where were you born
 who am i
 who are you
+you up
